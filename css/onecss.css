@@ -1,0 +1,72 @@
+
+#one{
+	border:0px solid #ccc;
+	height:980px;
+	width:1362px;
+}
+
+
+#three{
+	border:1px solid #000000;
+	height:48px;
+	width:1362px;
+}
+#style {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top:10px;
+	padding-bottom:20px;
+	text-align:center;
+	background-color: #c7d6b9;
+}
+li{
+	display:inline;
+	 padding: 0px 35px;
+}
+a{
+	text-decoration:none;
+	font-weight:bold;
+	color: #23262E;
+}
+/* 鼠标移动到选项上修改背景颜色 */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+li a {
+    padding: 10px 0px;
+    padding-bottom:20px;
+}
+
+#four
+{
+	border:1px solid #000000;
+	height:400px;
+	width:1362px;
+	
+}
+#Fives
+{
+	border:1px solid #000000;
+	height:400px;
+	width:452px;
+	float:left;
+}
+#six
+{
+	border:1px solid #000000;
+	height:400px;
+	width:452px;
+	float:left;
+}
+#Seven
+{
+	border:1px solid #000000;
+	height:400px;
+	width:452px;
+	float:left;
+}
+h3{
+	text-align:center;
+}
